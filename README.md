@@ -10,7 +10,7 @@ Currently we’re working on adding more providers and extending the features li
 ![](https://github.com/rubygarage/shopapp-android/blob/master/assets/shopapp-main-screen.gif)
 
 ## Installation
-To install the dependencies required for an application build, ShopApp uses [Gradle](https://gradle.org). Connect one of the providers for an online store and install all the dependencies. As an example, let's use Shopify.
+To install the dependencies required for an application build, ShopApp uses [Gradle](https://gradle.org). Connect one of the providers for an online store and install all the dependencie. As an example, let's use Shopify.
 
 1. Add the following line to **app/build.gradle**:
 ```
